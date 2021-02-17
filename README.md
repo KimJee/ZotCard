@@ -53,6 +53,9 @@
     * [ ] User can "bookmark" a card 
 
 ## Wireframes
+
+Our current wireframes on figma
+<img src="https://github.com/KimJee/ZotCard/blob/main/zot-cards-wire-frame-draft.PNG" width=800><br>
 <img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
