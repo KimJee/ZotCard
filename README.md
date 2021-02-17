@@ -21,6 +21,15 @@
         * Local persistent storage (MVP)
     * [ ] User can interact with "study" mode by swiping left if they don't know OR swipe right (if they got it right)
 
+  * Create "fragment" 
+    * Create their own deck
+    * Add, Remove, Edit, and Rearrange text
+  * Home Page 
+  * Recent decks (category)
+  * Beginner, Intermediate, Advanced
+  * 
+
+
 ### Navigation Layout
 * "Deck Edit"
 * "Deck Store"
